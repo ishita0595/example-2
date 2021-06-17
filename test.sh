@@ -1,0 +1,3 @@
+echo " Test"
+date
+cal
